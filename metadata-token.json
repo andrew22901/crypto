@@ -1,0 +1,12 @@
+{
+    "name": "ELON BOX",
+    "symbol": "ELBX",
+    "description": "Ready to rumble",
+    "image": "https://raw.githubusercontent.com/andrew22901/crypto/29c9171f1ee7fe2c789c0283e5772dd5b5b764f3/2(1).png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Elon Box"
+      }
+    ]
+  }
